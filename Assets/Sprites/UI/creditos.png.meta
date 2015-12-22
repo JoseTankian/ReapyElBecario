@@ -1,0 +1,122 @@
+fileFormatVersion: 2
+guid: 770451f58ccc2d144b11481cc58a588f
+timeCreated: 1450798214
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: creditos_0
+    21300002: creditos_1
+    21300004: creditos_2
+    21300006: creditos_3
+    21300008: creditos_4
+    21300010: creditos_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: creditos_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 718
+        width: 4623
+        height: 2139
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: creditos_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1297
+        height: 471
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: creditos_2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1855
+        width: 2090
+        height: 993
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: creditos_3
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 2136
+        width: 1865
+        height: 694
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: creditos_4
+      rect:
+        serializedVersion: 2
+        x: 2779
+        y: 1040
+        width: 1852
+        height: 1012
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: creditos_5
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 758
+        width: 2071
+        height: 1003
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,133 @@
+fileFormatVersion: 2
+guid: 77d36eb2207331c479f8e6e530e3732b
+timeCreated: 1448725263
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: poleas_0
+    21300002: poleas_1
+    21300004: poleas_2
+    21300006: poleas_3
+    21300008: poleas_4
+    21300010: poleas_5
+    21300012: poleas_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: poleas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1961
+        height: 4819
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poleas_1
+      rect:
+        serializedVersion: 2
+        x: 2252
+        y: 1415
+        width: 1967
+        height: 5677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poleas_2
+      rect:
+        serializedVersion: 2
+        x: 4496
+        y: 971
+        width: 173
+        height: 4599
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poleas_3
+      rect:
+        serializedVersion: 2
+        x: 4890
+        y: 2897
+        width: 97
+        height: 2424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poleas_4
+      rect:
+        serializedVersion: 2
+        x: 5049
+        y: 4202
+        width: 1484
+        height: 894
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poleas_5
+      rect:
+        serializedVersion: 2
+        x: 5112
+        y: 3132
+        width: 772
+        height: 790
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poleas_6
+      rect:
+        serializedVersion: 2
+        x: 5122
+        y: 2111
+        width: 772
+        height: 789
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

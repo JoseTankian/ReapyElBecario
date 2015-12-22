@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: 202fd0c792cf6434594b5bc3cc231cac
+timeCreated: 1448728506
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Elementos_0
+    21300002: Elementos_1
+    21300004: Elementos_2
+    21300006: Elementos_3
+    21300008: Elementos_4
+    21300010: Elementos_5
+    21300012: Elementos_6
+    21300014: Elementos_7
+    21300016: Elementos_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Elementos_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1308
+        width: 1428
+        height: 823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elementos_1
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 1246
+        width: 217
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elementos_2
+      rect:
+        serializedVersion: 2
+        x: 2581
+        y: 1129
+        width: 186
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elementos_3
+      rect:
+        serializedVersion: 2
+        x: 2884
+        y: 1414
+        width: 164
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elementos_4
+      rect:
+        serializedVersion: 2
+        x: 3681
+        y: 294
+        width: 1408
+        height: 1615
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elementos_5
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 667
+        width: 872
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elementos_6
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 699
+        width: 281
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elementos_7
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 0
+        width: 1186
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Elementos_8
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 125
+        width: 1245
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

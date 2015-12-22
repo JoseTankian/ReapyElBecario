@@ -1,0 +1,606 @@
+fileFormatVersion: 2
+guid: 17ce94c01cc1f416089c1117810f5eff
+timeCreated: 1448916766
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Reapy_Parado_0
+    21300002: Reapy_Parado_1
+    21300004: Reapy_Parado_2
+    21300006: Reapy_Parado_3
+    21300008: Reapy_Parado_4
+    21300010: Reapy_Parado_5
+    21300012: Reapy_Parado_6
+    21300014: Reapy_Parado_7
+    21300016: Reapy_Parado_8
+    21300018: Reapy_Parado_9
+    21300020: Reapy_Parado_10
+    21300022: Reapy_Parado_11
+    21300024: Reapy_Parado_12
+    21300026: Reapy_Parado_13
+    21300028: Reapy_Parado_14
+    21300030: Reapy_Parado_15
+    21300032: Reapy_Parado_16
+    21300034: Reapy_Parado_17
+    21300036: Reapy_Parado_18
+    21300038: Reapy_Parado_19
+    21300040: Reapy_Parado_20
+    21300042: Reapy_Parado_21
+    21300044: Reapy_Parado_22
+    21300046: Reapy_Parado_23
+    21300048: Reapy_Parado_24
+    21300050: Reapy_Parado_25
+    21300052: Reapy_Parado_26
+    21300054: Reapy_Parado_27
+    21300056: Reapy_Parado_28
+    21300058: Reapy_Parado_29
+    21300060: Reapy_Parado_30
+    21300062: Reapy_Parado_31
+    21300064: Reapy_Parado_32
+    21300066: Reapy_Parado_33
+    21300068: Reapy_Parado_34
+    21300070: Reapy_Parado_35
+    21300072: Reapy_Parado_36
+    21300074: Reapy_Parado_37
+    21300076: Reapy_Parado_38
+    21300078: Reapy_Parado_39
+    21300080: Reapy_Parado_40
+    21300082: Reapy_Parado_41
+    21300084: Reapy_Parado_42
+    21300086: Reapy_Parado_43
+    21300088: Reapy_Parado_44
+    21300090: Reapy_Parado_45
+    21300092: Reapy_Parado_46
+    21300094: Reapy_Parado_47
+    21300096: Reapy_Parado_48
+    21300098: Reapy_Parado_49
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Reapy_Parado_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2844
+        width: 500
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Reapy_Parado_1
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2844
+        width: 500
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Reapy_Parado_2
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2844
+        width: 500
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Reapy_Parado_3
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2844
+        width: 500
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Reapy_Parado_4
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2844
+        width: 500
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Reapy_Parado_5
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 2844
+        width: 500
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Reapy_Parado_6
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2844
+        width: 500
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Reapy_Parado_7
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 2844
+        width: 500
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Reapy_Parado_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2370
+        width: 500
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Reapy_Parado_9
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2370
+        width: 500
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Reapy_Parado_10
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2370
+        width: 500
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Reapy_Parado_11
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2370
+        width: 500
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Reapy_Parado_12
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2370
+        width: 500
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Reapy_Parado_13
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 2370
+        width: 500
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Reapy_Parado_14
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2370
+        width: 500
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Reapy_Parado_15
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 2370
+        width: 500
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Reapy_Parado_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1896
+        width: 500
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Reapy_Parado_17
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1896
+        width: 500
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Reapy_Parado_18
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1896
+        width: 500
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Reapy_Parado_19
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1896
+        width: 500
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Reapy_Parado_20
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1896
+        width: 500
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Reapy_Parado_21
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1896
+        width: 500
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Reapy_Parado_22
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1896
+        width: 500
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Reapy_Parado_23
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1896
+        width: 500
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Reapy_Parado_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1422
+        width: 500
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Reapy_Parado_25
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1422
+        width: 500
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Reapy_Parado_26
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1422
+        width: 500
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Reapy_Parado_27
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1422
+        width: 500
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Reapy_Parado_28
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1422
+        width: 500
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Reapy_Parado_29
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1422
+        width: 500
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Reapy_Parado_30
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1422
+        width: 500
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Reapy_Parado_31
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1422
+        width: 500
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Reapy_Parado_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 948
+        width: 500
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Reapy_Parado_33
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 948
+        width: 500
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Reapy_Parado_34
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 948
+        width: 500
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Reapy_Parado_35
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 948
+        width: 500
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Reapy_Parado_36
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 948
+        width: 500
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Reapy_Parado_37
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 948
+        width: 500
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Reapy_Parado_38
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 948
+        width: 500
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Reapy_Parado_39
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 948
+        width: 500
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Reapy_Parado_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 474
+        width: 500
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Reapy_Parado_41
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 474
+        width: 500
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Reapy_Parado_42
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 474
+        width: 500
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Reapy_Parado_43
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 474
+        width: 500
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Reapy_Parado_44
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 474
+        width: 500
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Reapy_Parado_45
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 474
+        width: 500
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Reapy_Parado_46
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 474
+        width: 500
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Reapy_Parado_47
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 474
+        width: 500
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Reapy_Parado_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 500
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Reapy_Parado_49
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 500
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

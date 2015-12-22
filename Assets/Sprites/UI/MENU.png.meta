@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: a583b95fde1d1974792453faecd78ef2
+timeCreated: 1448825526
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MENU_0
+    21300002: MENU_1
+    21300004: MENU_2
+    21300006: MENU_3
+    21300008: MENU_4
+    21300010: MENU_5
+    21300012: MENU_6
+    21300014: MENU_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: MENU_0
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 5583
+        width: 1450
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MENU_1
+      rect:
+        serializedVersion: 2
+        x: 3088
+        y: 3319
+        width: 5220
+        height: 2604
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MENU_2
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 4858
+        width: 1437
+        height: 545
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MENU_3
+      rect:
+        serializedVersion: 2
+        x: 8622
+        y: 3280
+        width: 1668
+        height: 1725
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MENU_4
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 4082
+        width: 1392
+        height: 545
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MENU_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1135
+        width: 2129
+        height: 2129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MENU_6
+      rect:
+        serializedVersion: 2
+        x: 5127
+        y: 1760
+        width: 1725
+        height: 1148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MENU_7
+      rect:
+        serializedVersion: 2
+        x: 7596
+        y: 0
+        width: 5538
+        height: 2863
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
